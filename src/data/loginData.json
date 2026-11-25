@@ -1,0 +1,6 @@
+{
+  "invalidLogins": [
+    { "case": "unknown user", "email": "qa.no.such.user@example.com", "password": "Any-Password-123" },
+    { "case": "unknown user with special characters", "email": "qa.o'brien+test@example.com", "password": "p@ss w0rd!" }
+  ]
+}
